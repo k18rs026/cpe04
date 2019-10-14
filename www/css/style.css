@@ -81,3 +81,7 @@
     #btnA{
       color:green;
     }
+
+    #message{
+      font-weight: bold;
+    }
